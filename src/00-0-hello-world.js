@@ -8,6 +8,7 @@ function greet() {
 function logWhatsUp() {
   // Your Code Here
   // input: none
+  // new change
   // output: none
   // side effect: logs the string "What's up?" to the console
   console.log ("What's up?")
